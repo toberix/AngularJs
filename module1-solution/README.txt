@@ -1,6 +1,3 @@
-This KiltedViking's solution to assignment in Module 1 on the course "Single Page Web Application with AngularJS" at Coursera.
+#Course: Single Page Web Applications with AngularJS
 
-
-Björn G. D. Persson
-KiltedViking
-https://github.com/KiltedViking/Coursera
+This repository contains the source code for the Single Page Web Applications with AngularJS hosted on Coursera.org
